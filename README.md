@@ -17,7 +17,7 @@ I’m looking for a project to have a positive impact on.
 
 ### ℹ️ More info 
 
-- [LinkedIn](www.linkedin.com/in/johann-eugen)
+- [LinkedIn](https://www.linkedin.com/in/johann-eugen)
  
 ### 🤖 Preferred technologies
 
