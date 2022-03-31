@@ -1,7 +1,7 @@
-### Junior Software Developer
+##### Junior Software Developer
 
 
-###👨‍💻 About me
+### 👨‍💻 About me
 
 I’m Johann an Agronomic Engineer who switch carrer to be a Web Developer.
 
@@ -9,17 +9,17 @@ I recently made the switch to the world of coding, by joining the Full Stack Web
 
 I’m looking for a project to have a positive impact on.
 
-🔥 Deep passion
+### 🔥 Deep passion
 Learning
 Technology
 Tennis
 
 
-ℹ️ More info 
+### ℹ️ More info 
 
 - [LinkedIn](www.linkedin.com/in/johann-eugen)
-- 
-🤖 Preferred technologies
+ 
+### 🤖 Preferred technologies
 
 Languages: Typescript & Javascript (& HTML & CSS)
 
@@ -29,7 +29,7 @@ Backend: Node & Express & SQL
 
 Database: Postgres
 
-Tech Stack
+### Tech Stack
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
@@ -42,12 +42,12 @@ Tech Stack
 </p>
        
        
-       👾 Projects 👾
+ ###      👾 Projects 👾
        
-🎾 Tennis Buddy 🎾
+### 🎾 Tennis Buddy 🎾
 
 This app is a place where a Tennis player can find a tennis budy to play with, based on level!
 
-🎒 BackPack Savior 🎒
+### 🎒 BackPack Savior 🎒
 Together with two other developers, we created a pack savior where the user can check wich itens he need to bring to the trip!
 
