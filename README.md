@@ -1,4 +1,4 @@
-##### Junior Software Developer
+# Junior Software Developer
 
 
 ### 👨‍💻 About me
@@ -10,9 +10,9 @@ I recently made the switch to the world of coding, by joining the Full Stack Web
 I’m looking for a project to have a positive impact on.
 
 ### 🔥 Deep passion
-Learning
-Technology
-Tennis
+- Learning
+- Technology
+- Tennis
 
 
 ### ℹ️ More info 
