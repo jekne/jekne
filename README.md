@@ -1,7 +1,7 @@
-Junior Software Developer
+### Junior Software Developer
 
 
-👨‍💻 About me
+###👨‍💻 About me
 
 I’m Johann an Agronomic Engineer who switch carrer to be a Web Developer.
 
